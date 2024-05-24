@@ -1,0 +1,6 @@
+@Contectsapi_HostAddress = http://localhost:5037
+
+GET {{Contectsapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
